@@ -1,3 +1,42 @@
+Elevex Lift Schema Website is a basic structure of a website that can deal with the services and procedures of a lift company, it can be used to store the about information for company,
+
+How to run ?
+
+1.You can clone this file by using git clone command to your computer.
+2. After that open this file in any code editor like vs code.
+3. Run this website to localhost by using npm run start
+4. Do the changes which you want and contribute ☺.
+
+Note- You have to install Node js into your systen to run it in your computer.
+
+
+Technologies Used
+ HTML
+ CSS
+ JAVASCRIPT
+ REACT
+ BOOTSTRAP
+ ROUTER
+ and many more 
+
+
+
+ Some screenshots of website are:
+
+ ![elevex pic 1](https://github.com/hemangsheoran/elevex-lift-website-schema/assets/90271933/5e9317b5-d5e2-418b-a0d1-260c3d6431ce)
+
+ ![elevex pic 2](https://github.com/hemangsheoran/elevex-lift-website-schema/assets/90271933/a88b58f8-93cb-4f85-b049-219e5e169b19)
+
+ ![elevex pic 3](https://github.com/hemangsheoran/elevex-lift-website-schema/assets/90271933/533cf368-8599-4b72-9fd9-a066a4de2e23)
+
+ ![elevex contact us](https://github.com/hemangsheoran/elevex-lift-website-schema/assets/90271933/dbd203da-6e1d-4ba8-9390-bf47b7bbe9bd)
+
+ ![elevex about us](https://github.com/hemangsheoran/elevex-lift-website-schema/assets/90271933/b2c91bdb-82a3-427a-b922-e2f1c0700930)
+
+
+
+
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
